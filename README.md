@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ankrish 👋
 
-<!--
-**ankrish-t/ankrish-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student who enjoys breaking things ethically and learning how to fix them better.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏫 Education
+B.Tech Cyber Security — NIIT University *(2021 – Present)*
+
+## 💼 Experience
+- Cybersecurity Intern
+- Cisco Virtual Internship
+- Content Lead @ GDSC NU
+
+## 🏆 Accomplishments
+- Built a Voice-Based AI Chatbot for my capstone project
+- Certified in CEH V12, Microsoft Cybersecurity Analyst, AWS Cloud Practitioner & Cisco CCNAv7
+
+## 🛠️ Tools I Use
+`Python` `Kali` `Wireshark` `Nmap` `Metasploit` `Azure`
+
+## 🧃 Fun Fact
+I once ran a head-to-head comparison of web app scanners just to see which one finds bugs the best 🔍
