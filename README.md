@@ -5,12 +5,11 @@ Cybersecurity student who enjoys breaking things ethically and learning how to f
 ---
 
 ## 🏫 Education
-B.Tech Cyber Security — NIIT University *(2021 – Present)*
+B.Tech Cyber Security — NIIT University *(2021 – 2025)*
 
 ## 💼 Experience
 - Cybersecurity Intern
 - Cisco Virtual Internship
-- Content Lead @ GDSC NU
 
 ## 🏆 Accomplishments
 - Built a Voice-Based AI Chatbot for my capstone project
